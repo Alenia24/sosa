@@ -1,6 +1,11 @@
 .announcementBar {
     background-color: black;
     color: white;
-    padding: 5px 0;
+    padding: 6px 0;
     font-size: small;
+    text-align: center;
+}
+
+.announcementBar span {
+    text-decoration: underline;
 }
